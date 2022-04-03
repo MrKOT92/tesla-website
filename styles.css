@@ -1,5 +1,5 @@
 body {
-  background: url("C://tesla-website/images/headpic.jpg");
+  background: url("./images/headpic.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   width: 100%;
@@ -21,7 +21,7 @@ body {
 }
 #banner {
   float: left;
-  background: url("C://tesla-website/images/banner.png");
+  background: url("./images/banner.png");
   background-repeat: no-repeat;
   width: 233px;
   padding: 53px;
@@ -35,33 +35,32 @@ body {
   width: 84%;
 }
 #body-modelS {
-  background: url("C://tesla-website/images/modelS.jpg");
+  background: url("./images/modelS.jpg");
   background-repeat: no-repeat;
-  background-size: 100% auto;
+
   max-height: 100%;
   width: auto;
+  background-position: center;
+  background-size: cover;
 }
 #body-model-3 {
-  background: url("C://tesla-website/images/model 3.jpg");
+  background: url("./images/model\ 3.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   max-height: 100%;
   width: auto;
 }
 #body-model-X {
-  background: url("C://tesla-website/images/model X.jpg");
+  background: url("./images/model\ X.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   max-height: 100%;
   width: auto;
 }
 #body-model-Y {
-  background: url("C://tesla-website/images/model Y.jpg");
+  background: url("./images/model\ Y.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   max-height: 100%;
   width: auto;
-}
-#id banner-image {
-  background: url("C://tesla-website/images/banner.png");
 }
