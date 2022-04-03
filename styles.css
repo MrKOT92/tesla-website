@@ -10,25 +10,28 @@ body {
   width: 1100px;
   text-align: right;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: auto;
 }
 .nav li {
   display: inline-flex;
   padding: 20px;
+}
+.nav li:first-of-type {
+  float: left;
 }
 .nav a {
   text-decoration: none;
   color: black;
 }
 #banner {
-  float: left;
-  background: url("./images/banner.png");
+  background: url(./images/banner.png);
   background-repeat: no-repeat;
-  width: 233px;
-  padding: 53px;
-  padding-bottom: 86px;
+  width: 110px;
   background-size: 112px;
   display: block;
+  height: 45px;
 }
+
 .intro {
   text-align: center;
   padding: 85px;
@@ -63,4 +66,6 @@ body {
   background-size: 100% auto;
   max-height: 100%;
   width: auto;
+}
+ul {
 }
