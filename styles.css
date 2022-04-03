@@ -1,0 +1,67 @@
+body {
+  background: url("C://tesla-website/images/headpic.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 100%;
+  height: 100vh;
+  background-color: #294969;
+}
+.nav {
+  width: 1100px;
+  text-align: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav li {
+  display: inline-flex;
+  padding: 20px;
+}
+.nav a {
+  text-decoration: none;
+  color: black;
+}
+#banner {
+  float: left;
+  background: url("C://tesla-website/images/banner.png");
+  background-repeat: no-repeat;
+  width: 233px;
+  padding: 53px;
+  padding-bottom: 86px;
+  background-size: 112px;
+  display: block;
+}
+.intro {
+  text-align: center;
+  padding: 85px;
+  width: 84%;
+}
+#body-modelS {
+  background: url("C://tesla-website/images/modelS.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  max-height: 100%;
+  width: auto;
+}
+#body-model-3 {
+  background: url("C://tesla-website/images/model 3.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  max-height: 100%;
+  width: auto;
+}
+#body-model-X {
+  background: url("C://tesla-website/images/model X.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  max-height: 100%;
+  width: auto;
+}
+#body-model-Y {
+  background: url("C://tesla-website/images/model Y.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  max-height: 100%;
+  width: auto;
+}
+#id banner-image {
+  background: url("C://tesla-website/images/banner.png");
+}
