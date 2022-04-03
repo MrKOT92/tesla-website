@@ -37,9 +37,11 @@ body {
 #body-modelS {
   background: url("./images/modelS.jpg");
   background-repeat: no-repeat;
-  background-size: 100% auto;
+
   max-height: 100%;
   width: auto;
+  background-position: center;
+  background-size: cover;
 }
 #body-model-3 {
   background: url("./images/model\ 3.jpg");
